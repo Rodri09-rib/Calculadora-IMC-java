@@ -1,4 +1,4 @@
-----------------------------------------------------------------------------
+
 Este é o arquivo README do projeto. Prática de códigos no java. 
 ----------------------------------------------------------------------------
 Neste projeto, exercitei a funcionalidade de "Else/Else if" no java.
